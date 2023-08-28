@@ -1,3 +1,3 @@
-print ("Hello world");
-print ("Hello Samuel");
-print ("Hello Bryan");
+print ("Hello world")
+print ("Hello Samuel")
+print ("Hello Bryan")
